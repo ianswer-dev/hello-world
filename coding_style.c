@@ -1,3 +1,6 @@
+/*
+ * add comment 
+ */
 #include <linux/module.h>
 #include <linux/kernel.h>
 #include <asm/delay.h>
